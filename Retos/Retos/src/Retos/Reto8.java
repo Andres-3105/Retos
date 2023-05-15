@@ -64,10 +64,9 @@ public class Reto8 {
                     System.out.println("Has perdido");
                     System.out.println("-----------------------------------------------------------------");
                } 
-            }else if (opcion>3){
-                System.out.println("la opcion es invalida");
             }
-            System.out.println("Quiere volver a jugar? 1. Si  2. No");
+            System.out.println("La opcion es invalida");
+            System.out.println("¿Quiere volver a jugar? 1. Si  2. No");
             opcion = capturar.nextInt();
             System.out.println("-----------------------------------------------------------------");
         }while(opcion==1);

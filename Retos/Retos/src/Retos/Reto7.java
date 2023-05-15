@@ -14,7 +14,6 @@ public class Reto7 {
             int aleatorio = random;
             System.out.println("Ingrese cara o sello\n 1. Cara\n 2. Sello ");
             ladoMoneda = capturar.nextInt();
-            System.out.println(aleatorio);
             System.out.println("Ingrese el dinero que desea apostar");
             dinapos = capturar.nextInt();
             if (ladoMoneda==1) {
