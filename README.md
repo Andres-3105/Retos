@@ -1,2 +1,2 @@
 # Retos
- Este repositorio guarda los retos de estructuras algoritmicas
+ Este repositorio guarda los retos de Estructuras Algoritmicas
